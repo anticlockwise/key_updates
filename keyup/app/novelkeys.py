@@ -1,16 +1,13 @@
 from pyquery import PyQuery as pq
-from .models import GroupBuyItem
-import urllib3
+from .models import GroupBuyItem, USER_AGENT
 import json
 
-http = urllib3.PoolManager()
-r = http.request('GET', 'https://novelkeys.xyz/pages/updates',
-        headers={
-            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36'
-        })
+
+URL = 'https://novelkeys.xyz/pages/updates'
+
 
 gb_items = []
-d = pq(r.data)
+d = pq(URL, headers={'User-Agent': USER_AGENT})
 update_cells = d(".sc-pkHUE .sc-pkUyL")
 for update_cell in update_cells:
     update_cell_pq = pq(update_cell)
