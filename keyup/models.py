@@ -2,14 +2,19 @@ USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 
 
 class GroupBuyItem:
-    def __init__(self, name, expected_ship_date=None, status=None):
+    def __init__(self, name, store_name, expected_ship_date=None, status=None):
         self._name = name
+        self._store_name = store_name
         self._expected_ship_date = expected_ship_date
         self._status = status
 
     @property
     def name(self):
         return self._name
+
+    @property
+    def store_name(self):
+        return self._store_name
 
     @property
     def expected_ship_date(self):
