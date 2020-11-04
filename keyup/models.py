@@ -28,5 +28,6 @@ class GroupBuyItem:
         return {
             "name": self.name,
             "expected_ship_date": self.expected_ship_date,
+            "store_name": self.store_name,
             "status": self.status
         }

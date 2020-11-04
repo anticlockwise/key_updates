@@ -15,11 +15,5 @@ class CannonkeysScraper(PyQueryBasedScraper):
 
         gb_status_div = doc('div.rte')
         children = gb_status_div.contents()
-        for child in children:
-            if str(child).strip():
-                if child.tag == 'h4':
-                    print(pq(child).text())
-                elif child.tag == 'p':
-                    title_elem = pq(child).find('strong')
-                    if title_elem:
-                        print(title_elem.text())
+
+        return gb_items
