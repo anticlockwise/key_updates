@@ -2,11 +2,13 @@
 
 Usage:
   keyup/app.py index
+  keyup/app.py merge
   keyup/app.py search <keywords>
 """
 
 from .index.base import WhooshSearchIndex, GroupBuyItemSchema, create_index_dir, open_index_dir
 from .scrapers import AVAILABLE_SCRAPERS
+from .retriever import fetch
 from docopt import docopt
 import json
 
@@ -29,3 +31,15 @@ if __name__ == '__main__':
         print("Searching with keywords: ", keywords)
         results = indexer.search(keywords)
         print(json.dumps(results[0].__dict__()))
+    if 'merge' in arguments and arguments['merge']:
+        ix = open_index_dir("index/keyboard_updates")
+        indexer = WhooshSearchIndex(ix)
+        gb_items = fetch()
+        gb_items = filter(lambda g: g['type'] == 'keycaps', gb_items)
+        for gb_item in gb_items:
+            gb_item_name = gb_item['name']
+            results = indexer.search(gb_item_name)
+            if len(results) > 0:
+                print("GB item name: {}".format(gb_item_name))
+                print("GB item in search: {}, GB status: {}".format(results[0].name,
+                    results[0].expected_ship_date))
