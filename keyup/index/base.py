@@ -1,4 +1,5 @@
 import os, os.path
+import re
 import typing
 from ..models import GroupBuyItem
 from whoosh import index
