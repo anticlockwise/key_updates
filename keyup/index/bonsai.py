@@ -29,6 +29,7 @@ class BonsaiSearchIndex(SearchIndex):
                 "store_name": gb_item.store_name,
                 "status": gb_item.status,
                 "expected_ship_date": gb_item.expected_ship_date,
+                "update_time": gb_item.update_time
             }
             for gb_item in gb_items
         ]
