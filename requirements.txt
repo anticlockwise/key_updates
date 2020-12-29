@@ -19,7 +19,6 @@ joblib==1.0.0
 lxml==4.6.1
 murmurhash==1.0.5
 mypy-extensions==0.4.3
-nltk==3.5
 numpy==1.19.4
 pathspec==0.8.1
 plac==1.1.3
