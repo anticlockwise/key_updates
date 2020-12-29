@@ -1,0 +1,1 @@
+web: gunicorn keycap_updates_web.wsgi
