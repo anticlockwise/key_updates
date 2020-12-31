@@ -11,12 +11,17 @@ cssselect==1.1.0
 cymem==2.0.5
 datefinder==0.7.1
 Django==3.1.4
+django-elasticsearch-dsl==7.1.4
+django-filter==2.4.0
+djangorestframework==3.12.2
 docopt==0.6.2
 elasticsearch==7.9.1
+elasticsearch-dsl==7.3.0
 gunicorn==20.0.4
 idna==2.10
 joblib==1.0.0
 lxml==4.6.1
+Markdown==3.3.3
 murmurhash==1.0.5
 mypy-extensions==0.4.3
 numpy==1.19.4
