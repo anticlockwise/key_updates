@@ -12,7 +12,7 @@ URL = "{}/news".format(BASE_URL)
 class DixieMechScraper(PyQueryBasedScraper):
     def _get_url(self):
         d = pq(URL, headers={"User-Agent": USER_AGENT})
-        latest_update_link = d("a.BlogList-item-title").eq(1)
+        latest_update_link = d("a.BlogList-item-title").eq(0)
         latest_update_url = "{}{}".format(BASE_URL, latest_update_link.attr("href"))
         return latest_update_url
 

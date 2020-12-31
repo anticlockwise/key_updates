@@ -26,7 +26,7 @@ SECRET_KEY = 'b8m)0f_jjq&%y_e6_ib4l$-1+ackekhk=3$^^(=!^#l%a)wfg9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['key-updates.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'key-updates.herokuapp.com']
 
 
 # Application definition
@@ -38,7 +38,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'django_elasticsearch_dsl',
+    'search.apps.SearchConfig',
 ]
+
+ELASTICSEARCH_DSL = {
+    'default': {
+        'hosts': 'https://tr0uxgn4p7:61cnpn4648@ginkgo-211207451.us-east-1.bonsaisearch.net:443'
+    }
+}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
