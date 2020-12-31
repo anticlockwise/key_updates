@@ -14,10 +14,15 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
-from search.views import GroupBuyItemListView
+from django.urls import path, include
+from search.views import GroupBuyItemReadonlyViewSet
+from rest_framework.routers import SimpleRouter
+
+router = SimpleRouter()
+
+router.register("groupbuys", GroupBuyItemReadonlyViewSet, basename="groupbuys")
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("api/v1/groupbuys/", GroupBuyItemListView.as_view()),
+    path("api/v1/", include(router.urls)),
 ]
