@@ -10,6 +10,8 @@ class Command(BaseCommand):
         pass
 
     def handle(self, *args, **kwargs):
+        GroupBuyItem.objects.all().delete()
+
         gb_items = []
         for scraper in AVAILABLE_SCRAPERS:
             scraped_items = scraper.scrape()
@@ -17,6 +19,7 @@ class Command(BaseCommand):
             gb_items.extend(scraped_items)
         print("Indexing {} group buy items".format(len(gb_items)))
 
+        f = open("dates", 'w')
         for gb_item in gb_items:
             gb_item_model = GroupBuyItem(
                 name=gb_item.name,
@@ -25,6 +28,12 @@ class Command(BaseCommand):
                 status=gb_item.status or "",
                 update_time=gb_item.update_time,
             )
+
+            if gb_item.expected_ship_date:
+                f.write(gb_item.expected_ship_date + "\n")
+
             gb_item_model.save()
+
+        f.close()
 
         print("Completed indexing of group buy item updates")

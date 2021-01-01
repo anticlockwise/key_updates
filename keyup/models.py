@@ -39,7 +39,7 @@ class GroupBuyItem:
 
     @property
     def update_time(self):
-        return datetime.datetime.now()
+        return datetime.datetime.utcnow()
 
     def __dict__(self):
         return {

@@ -1,11 +1,12 @@
 from ..models import GroupBuyItem
 from .base import PyQueryBasedScraper
+from .util import normalize_date
 from pyquery import PyQuery as pq
 import json
 
 
-URL = 'https://novelkeys.xyz/pages/updates'
-STORE_NAME = 'Novelkeys'
+URL = "https://novelkeys.xyz/pages/updates"
+STORE_NAME = "Novelkeys"
 
 
 class NovelkeysScraper(PyQueryBasedScraper):
@@ -21,21 +22,23 @@ class NovelkeysScraper(PyQueryBasedScraper):
             gb_url = update_cell_pq.attr("data-href")
 
             if gb_url:
-                title_cell = update_cell_pq('h3.sc-oTLFK .sc-ptSuy')
+                title_cell = update_cell_pq("h3.sc-oTLFK .sc-ptSuy")
                 title = title_cell.text()
 
-                expected_ship_date_cell = update_cell_pq('.sc-pbYdQ')
+                expected_ship_date_cell = update_cell_pq(".sc-pbYdQ")
                 if len(expected_ship_date_cell) == 2:
                     expected_ship_date = pq(expected_ship_date_cell[1]).text().strip()
 
                     if expected_ship_date:
-                        gb_item = GroupBuyItem(title, STORE_NAME, expected_ship_date)
+                        gb_item = GroupBuyItem(
+                            title, STORE_NAME, normalize_date(expected_ship_date)
+                        )
                         gb_items.append(gb_item)
 
         return gb_items
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     scraper = NovelkeysScraper()
     gb_items = scraper.scrape()
     for gb_item in gb_items:

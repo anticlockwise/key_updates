@@ -1,5 +1,6 @@
 from .base import PyQueryBasedScraper
 from ..models import GroupBuyItem
+from .util import normalize_date
 from pyquery import PyQuery as pq
 import json
 
@@ -30,7 +31,7 @@ class TxKeyboardsScraper(PyQueryBasedScraper):
                 title_cell.text(),
                 STORE_NAME,
                 status=status_cell.text(),
-                expected_ship_date=expected_ship_date_cell.text(),
+                expected_ship_date=normalize_date(expected_ship_date_cell.text()),
             )
             gb_items.append(gb_item)
 
