@@ -47,6 +47,7 @@ class DixieMechScraper(PyQueryBasedScraper):
                         latest_groupbuy_item.name, text
                     )
                     latest_groupbuy_item.expected_ship_date = expected_ship_date
+                    latest_groupbuy_item.status = (latest_groupbuy_item.status or "") + ". " + text
                     context['groupbuy_item_found'] = False
             self._traverse(pq(child), gb_items, context)
         pass
