@@ -1,0 +1,384 @@
+name,expected_ship_date,product_url
+Andromeda,October/November 2021,
+Satisfaction75 Round 2,Q4 2021,
+Iron180,Q3 2021,
+Sagittarius,Q4 2021,
+Tsukuyomi,October/November 2021,
+Onyx,Dec-21,
+Cornelius,Q3 2021,
+Iron165 Round 2,Q1 2022,
+Angel,Q4 2021,
+Ikki68 Aurora,Aug-21,
+Ikki68 Aurora x PNC,Sep-21,
+Ikki68 Aurora x Dreamscape,Q4 2021,
+KAT Atlantis,Q4 2021,
+GMK Deep Navy,Late Q3/early Q4 2021,
+KAT Explosion,Q4 2021,
+GMK Bread,Sep-21,
+CC ZeRo,We will have an accurate ETA soon now that production has started.,
+GMK Yuru,Oct-21,
+KAT Mizu,Q4 2021,
+GMK Red Dragon,Q4 2021,
+GMK Hallyu,Q4 2021,
+GMK Pink on Navy,Q4 2021,
+GMK Shanshui,Q4 2021,
+PBT Geekark Lancelot,Jul-21,
+KAT Crusader,Q4 2021,
+GMK Birch,Q1 2022,
+DSA 1930,ETA when domestic tracking,
+GMK PnC Lite,Q2 2022,
+GMK Fuji,Q2 2022,
+GMK WoB/Beige Cyrillic,Q2 2022,
+GMK Uwu Macro,Q2 2022,
+Fuji Deskmats,Oct-21,
+SA Mizu,Jun-21,
+Birch Deskmats,Aug-21,
+Hallyu Deskmats,Jul-21,
+Calm Palette Deskmat,Jul-21,
+Shanshui Deskmats,Jul-21,
+Crusader Deskmats,Jul-21,
+J-02,Completed,
+name,expected_ship_date,product_url
+EPBT Axolotls,Vendors are finalizing their numbers now and then order will be placed to ePBT.Estimated production completion was about 30 weeks from order placement.,
+EPBT Ivory,"Ivory Deskmats arrived and orders are shipping out now! Some orders are being held by RAMA Ivory caps, they are in production now.",
+EPBT Less But Better,Estimated shipping date is Q3 2021. ,
+EPBT Ramenstop,"Currently in Production, estimated completion is mid August. Will take around a month of transit, estimated October shipping to customers.",
+EPBT Soju,"Currently in Production, estimated completion is late July to mid August. Will take around a month of transit, estimated October shipping to customers.",
+JTK Avocado,Estimated shipping date is Q4 2021.,
+KAT Cat's Eye,Production completion is estimated for December 2021.,
+KAT Cyberspace,Production is starting in September with about a 1 month production time. Arrival around November after transit.,
+KAT LALA,Production is starting in November with about a 1 month production time. Arrival around January/February 2022 after transit.,
+MG Ember,Ember completed production and is on it's way to our Shenzhen warehouse for forwarding to our US warehouse. Estimated 1 month transit for September arrival.,
+MG Fishing,Estimated production completion is Q4 2021.,
+MG Ghost,These are in production now and are expected to complete September/October.,
+MG Salmon,Estimated production completion is Q1 2022.,
+SA Espresso,Estimated production completion from Signature Plastics is Q3 2022.,
+SA Nightlight,"SP has started production, but was delayed by about 4 weeks. Estimation is now late August 2021.",
+SA Magica,Tooling has been paid for and vendors are waiting on invoices from Maxkey. Estimated production completion is Q4 2021. ,
+SP SA Silent Assassin,SP has stated that production will not be completing this year and is likely completing 2022.,
+SP SA Spectra,Order was placed with SP mid-July. Estimated production completion from Signature Plastics is early Q4 2022. ,
+GMK Alpine,"Estimated production completion was estimated 38 weeks from order placement (late January 2021), estimated arrival November/December 2021.",
+GMK Amethyst,"Order was placed, estimated production from GMK was 36 weeks, putting production completion approximately in September 2021. This will likely be a bit delayed as quite a few sets need to complete beforehand, unless their production speed increases greatly.",
+GMK Boho,"Order was placed with GMK. Estimated production completion from GMK was 42 weeks from close, with another month or so for transit before shipping to customers (est. June 2022).",
+GMK Deku,Group Buy closed August 7th 2020. GMK's estimated production was originally 28 weeks from our order placement. Previously estimated to complete production in August 2021. We have reached out to GMK and are awaiting an updated lead-time. We now estimate this to complete production in Q4 2021 and will update accurately once GMK replies. ,
+GMK Evil Dolch,Order was placed with GMK mid-September 2020. Estimated production completion was originally 28 weeks. Update from GMK puts production completion around September 2021.,
+GMK Fox,"Order was placed with GMK. Estimated production completion was 42 weeks which puts completion around March 2022. Estimated to customers about a month after, Q2 2022. ",
+GMK Gateway,"Estimated production completion from GMK was 35 weeks from close, with another month or so for transit before shipping to customers (est. Q4 2021).",
+GMK Haku,"Estimated production completion from GMK was 42 weeks from close (end of June 2021), with another month or so for transit before shipping to customers (est. May/Q2 2022).",
+GMK Hanami Dango,"Estimated production completion from GMK was 38 weeks from close, with another month or so for transit before shipping to customers (Q3 2021).",
+GMK Ishtar,Previously estimated to complete production in August 2021. We have reached out to GMK and are awaiting an updated lead-time. We now estimate this to complete production in Q4 2021 and will update accurately once GMK replies. ,
+GMK Nines Round 3,"Order was placed in August 2020, with originally a 32 week lead time. GMK updated us that this set is scheduled to complete late September/ early October.",
+GMK Prepress,"Estimated production completion was originally 28 weeks, but missed the date. GMK previously estimated this to complete production in August 2021. We have reached out to GMK and are awaiting an updated lead-time. We now estimate this to complete production in Q4 2021 and will update accurately once GMK replies. ",
+GMK Pride,Estimated production completion was originally 34 weeks from Group Buy close. It will likely be a bit later due to their production backlog (est. Q4 2021).,
+GMK Posh,"Production estimation from GMK was originally 36 weeks. Estimated shipping to customers was August/September 2021, however GMK will likely be delayed since a handful of sets still need to complete beforehand. Estimated November/December 2021.",
+GMK Rainy Day,"Order was placed in November with an estimated production of 34 weeks from close, with about another month or so for transit. Originally estimated for September 2021, however GMK will likely be delayed since a handful of sets still need to complete beforehand.",
+GMK Retrocast,"Estimated production completion was 34 weeks from order placement (mid Nov), with another few weeks of transit before shipping to customers. Estimated delivery September 2021, assuming GMK production completes on time.",
+GMK Shoko R2,Current estimate from GMK is around October 2021 completion.,
+GMK Star,"Estimated production completion from GMK was 36 weeks from close, with another month or so for transit before shipping to customers (est. Dec 2021/January 2022).",
+GMK Storm,"Estimated production was 36 weeks from close, which puts it November production completion with another month of transit to us. Estimated shipping to customers December/January.",
+GMK Sunset Surfing,"Estimated production completion from GMK was 42 weeks from order placement (early June), with another month or so for transit before shipping to customers (est. Early Q2 2022).",
+GMK Yeeti,"Vendors were invoiced and everything is in place. Estimated production completion from GMK was 44 weeks from order placement (early April), with another month or so for transit before shipping to customers (est. January/Q1 2022).",
+Blade - 60% Keyboard Case,"Production has now been completed as of August 11th. Will take around a month of transit, estimated October 2021 shipping to customers.",
+Deskmats,"Deskmats en route to our warehouse:GMK Deku, GMK Evil Dolch, GMK Ishtar, GMK Posh, GMK Prepress, SA NightlightSamples are being inspected for the newest batch, which includes KAT Cyberspace, SA Magica, GMK Rainy Day, GMK Alpine, GMK Amethyst, SA Nightlight, GMK Hanami Dango, GMK Retrocast, ePBT Ramenstop, and ePBT Soju.",
+EV-01 Switches,"These completed production and are in transit to our warehouse. Will take around a month of transit and customs and will be in-stock mid August.We requested an update, but the factory stated they are actually in the process of moving the entire factory location. They requested the Bill of Materials again for production and is confirming the details.Final flashing was tested and approved. Once production starts it should take about two months.",
+Keebwerk Nano Oasis,Keebwerk will be finishing production by the end of next week. Arrival by August/September 2021 after transit.,
+Keystone Mechanical Keyboard,Check out our most recent Email support@kono.store with any questions or concerns.We are getting PCBs sent to us to be checked by out engineers. This project is moving forward! Our team member in China visited the factory this week to ensure production moves smoothly.,
+Kono Midnight Switches,"Production lead time was 5 weeks from close (July 30), with another month for transit. Estimated September 2021 arrival.",
+Momoka FROG Switches,Order has been placed and production is underway! Estimated arrival is late September after transit.,
+Stargaze Deskmats,These will be produced with our next batch of deskmats and are estimated to complete production September 2021.,
+Sushi Deskmats,These completed production and are in transit to our warehouse. Will take around a month of transit and customs and will be in-stock late August/mid September.,
+THOK Ramses Encoder Knob,The estimated production time was 8-16 weeks from close (mid May). Estimated Q3 2021.,
+Titan65,Vendors and designers are organizing the production. Estimated production completion is Q4 2021.,
+name,expected_ship_date,product_url
+EO-87,"
+",
+Hidari,Q4 2021,
+Monokei x TGR - Tomo 75%,Q2 2022,
+TX-60/65/66/660C,,
+ePBT x GOK Kuro/Shiro R3,Q1 '22,
+ePBT Sniper,Q2 '22,
+GA Triangles,Q3 '21,
+GMK Apollo,Sep ‘21,
+GMK Baltic,"
+",
+GMK Black Modi,May '21,
+GMK Bleached,Feb '21,
+GMK Classic Red,Oct '21,
+GMK Cojiro,Q1 '22,
+GMK Coral,,
+GMK Demon Sword,Oct '21,
+GMK Gregory,Q1 '22,
+GMK Harvest,Q1 '23,
+GMK Hazakura,Q3 '22,
+GMK Kouhai,Q2 '22,
+GMK Lux,Sep '21,
+GMK Maestro,Q1 '22,
+GMK Modern JaDesko,Q2 '22,
+GMK Monarch,Q2 '22,
+GMK Pâtisserie,Q3 '22,
+GMK Oni,Q4 '21,
+GMK Red Devils,Nov '21,
+GMK Rouge,Sep '21,
+GMK Sixes,Q4 '22,
+GMK Stargaze,Q4 '22,
+GMK Taegeukgi,Nov '21,
+GMK Watermelon,Q2 '22,
+GMK WoB Shinethrough,Apr '22,
+JTK Azure,Oct '21,
+KAT Comet,Jan '22,
+KAT Iron,Sep '21,
+KAT Monochrome,Nov '21,
+KAT Refined,Dec '21,
+MONOKEI x dogethink,Q4 '21,
+SA BISO,Sep '21,
+Gateron Inks - Baltic Edition,Jun '21,
+Durock Linear Moss Switches,Jan '21,
+3ildmat Deskmat,Oct '21,
+Anti Deskmat Deskmat Club,Feb '21,
+Access Deskmats,Q4 '21,
+Celestial Deskmats,Aug '21,
+Christmas Tea Deskmat,"
+",
+CYBERPNK Deskmats,May '21,
+Deep Deskmats,Jul '21,
+Desert Deskmats,,
+Doggo Sushi Deskmats,"
+",
+Foliage Deskmats,Q4 '21,
+Founders Deskmat,Jun '21,
+GA Triangles Deskmat,Jul '21,
+GMK Apollo Deskmat,May '20,
+GMK Cojiro Deskmat,Jul '21,
+GMK Harvest Deskmats,TBA,
+GMK Hazakura Deskmat,Oct '21,
+GMK Maestro Deskmat,Jul '21,
+GMK Oni Deskmat,Dec '20,
+GMK Red Devils Deskmat,Feb ‘21,
+GMK Stargaze,TBA,
+GMK Watermelon Deskmat,Aug '21,
+JTZ Azure Deskmat,Jul '21,
+KAT Iron Deskmat,Dec '20,
+Kat4 Deskmats,Q4 '21,
+Moss Deskmat,,
+Neko-Tomo Deskmat,"
+",
+Senkai Deskmats,Jul '21,
+To The Moon Deskmats,Aug '21,
+Waves Deskmats,Sep '21,
+ePBT BoW Hangul - Keicap,TBA,
+GMK Apollo - RAMA,2020,
+GMK Apollo - Salvun,2020,
+GMK Classic Red - RAMA,Dec '20,
+GMK Cojiro - RAMA,Jun '21,
+GMK Demon Sword - RAMA,May '21,
+GMK Harvest - RAMA,TBA,
+GMK Harvest - Asero,TBA,
+GMK Maestro - RAMA,Aug '21,
+GMK Oni - RAMA,Jan '21,
+GMK Red Devils - RAMA,Mar '21,
+GMK Red Devils - Salvun,Aug '21,
+GMK Taegeukgi - Salvun,Aug '21,
+GMK Stargaze - RAMA,TBA,
+GMK Watermelon - RAMA,Sep '21,
+JTZ Azure - RAMA,Apr '21,
+KAT Iron - Salvun,Aug '21,
+KAT Monochrome - Salvun,Aug '21,
+MONOKEI x CYSM,Q4 '21,
+BISO Bags,,
+Large TX Bags,,
+name,expected_ship_date,product_url
+GMK Classic Retro Zhuyin,Q2 2022,
+GMK Oblivion V3.1,Q2 2022,
+NK65™ - Oblivion V3.1 Edition,Q4 2021,
+Oblivion V3.1 Deskpad,Q4 2021,
+RAMA M6-C Oblivion Edition,Q4 2021,
+Aluvia Keycaps,Q4 2021,
+GMK Analog Dreams R2,Q2 2022,
+Analog Dreams Deskpads,Q4 2021,
+KAM Li'l Dragon,Q2 2022,
+Li'l Dragon Deskpads,Q4 2021,
+Li'l Dragon Accesories,Q4 2021,
+GMK Handarbeit R2 GB,Q2 2022,
+GMK Parcel,Q2 2022,
+Parcel Deskpads,Q4 2021,
+GMK Zooted,Q2 2022,
+wilba.tech Salvation Keyboard,Q4 2021,
+Nono The Duck Bundle,Q3 2021,
+Metropolis Deskpads,Q4 2021,
+GMK Metropolis R2,Q1 2022,
+Metropolis M6-C,Q3 2021,
+Sa Tatooine™,Q2 2022,
+NK87 Aluminum Edition Preorder,Q4 2021,
+GMK Striker,Q1 2022,
+Hexagon Blue Deskpads,Q3 2021,
+Colorchrome Deskpads,Q4 2021,
+GMK Colorchrome,Q1 2022,
+Superuser Deskpads,Q3 2021,
+NK65™ - Superuser Edition,Q4 2021,
+KAM Superuser,Q1 2022,
+GMK Dots R2,Q1 2022,
+Dots R2 Deskpad,Q3 2021,
+GMK Mr. Sleeves R2,Q1 2022,
+Box 75,Q1 2022,
+Recall Deskpad GB,Aug. 2021,
+SA Recall,Q1 2022,
+NK65™ - Awaken Edition,Q1 2022,
+Awaken Deskpads,Aug. 2021,
+GMK Awaken,Q1 2022,
+GMK Serika 2,Q1 2022,
+NK65™ Olivia Edition,Oct. 2021,
+GMK Yuri R2,Q1 2022,
+JTK Griseann / Royal Alphas,Q4 2021,
+GMK Honor,Q1 2022,
+GMK Mudbeam,Q1 2022,
+GMK Grand Prix,Q1 2022,
+GMK Space Cadet II,Q1 2022,
+SA Jadeite,Q4 2021,
+GMK Monokai Material,Q1 2022,
+GMK Sloth,Jan. 2022,
+Sloth Deskpad,Aug. 2021,
+GMK Bento,Dec. 2021,
+GMK Mecha-01,Nov. 2021,
+GMK Hammerhead,Nov. 2021,
+GMK Boneyard,Oct. 2021,
+KAM Ghost,Q3 2021,
+GMK Midnight Rainbow,Aug. 2021,
+JTK Zen,Q3 2021,
+Decent65 Keyboard,Q3 2021,
+HSA WoB,Q3 2021,
+name,expected_ship_date,product_url
+GMK Botanical 2,Estimated to ship Q3 2022 (as of 7.2021),
+GMK SYMBIOTE,"
+GROUPBUY
++ June 2021
+SHIPPING
++ Estimated to ship Q3 2022 (as of 6.2021)
+KEYCAPS
+CUSTOM COLORS
+ 
+
+
+DESKPADS
+ 
+RAMA WORKS® CAPS",
+GMK DUALSHOT 2,"
+GROUPBUY
++ May 2021
+SHIPPING
++ Estimated to ship Q2/Q3 2022 (as of 5.2021)
+KEYCAPS
+STOCK COLORS - NO COLOR MATCHING NEEDED
+ 
+
+
+DESKPADS
+ 
+RAMA WOR...",
+SA Ramses,"
+GROUPBUY
++ April 2021
+
+SHIPPING
++ Estimated to ship Q3 2022 [pending color matching] (as of 4.2021)
+
+KEYCAPS
+COLOR SAMPLES 
+CUSTOM COLORS:⏸ Green⏸...",
+GMK Blurple,"
+GROUPBUY
++ April 2021
+
+SHIPPING
++ Estimated to ship Q2/Q3 2022 [pending color matching] (as of 4.2021)
+
+KEYCAPS
+COLOR SAMPLES 
+CUSTOM COLORS:⏸ Blu...",
+GMK Norse,"
+GROUPBUY
++ March 2021
+
+SHIPPING
++ Estimated to ship Q1/Q2 2022 [pending color matching] (as of 3.2021)
+
+KEYCAPS
+COLOR SAMPLES 
+CUSTOM COLORS:⏸ Blu...",
+Brushworks Deskpads,+ Shipping August 2021 (as of 8.19.2021),
+GMK Tuzi,Estimate to ship Q1 2022,
+Cyber Meka Mats,+ Estimated to ship April/May 2021 (as of 2.5.2021),
+GMK 80082,Estimated to ship Jan / Feb 2022 (as of 2.4.2021),
+GMK ThinkCaps,Estimated to ship Nov 2021 (as of 2.4.2021),
+Bauer 2,+ Estimated to ship June/July 2021 (as of 4.16.2021),
+GMK Redline,+ Estimated to ship Nov 2021 (pending color sample approval),
+GMK Dracula,"+ Estimated to ship from the manufacturer at the end of Sept 2021 and to customers in Oct/Nov 2021 (as of 6.25.2021)
+
+
+",
+Meka Bag / Keyboard Bag Groupbuy,Estimated to ship March/April 2021,
+8008 Inks,Estimated to ship in Feb 2021,
+SA DUALSHOT,Estimated to ship August 2021,
+GMK Minimal 2,+ Estimated to ship from manufacturer in mid-Dec and to customers in Jan 2022 (as of 6.25.2021),
+GMK Pono,"
++ Estimated to ship from manufacturer in mid-Nov and to customers in Dec 2021/Jan 2022 (as of 6.25.2021)",
+GMK Nuclear Data,+ Estimated to ship from manufacturer in mid-Oct and to customers in Nov 2021 (as of 6.25.2021),
+GMK MoDo 2,+ Estimated to ship from manufacturer in mid-Oct and to customers in Nov 2021 (as of 6.25.2021),
+GMK REDACTED,"+ Estimated to ship from manufacturer in mid-Nov and to customers in Dec 2021 (as of 6.25.2021)
+
+
+",
+GMK Nautilus 2,"Shipping Feb 2021
+
+
+",
+GMK Botanical,Groupbuy orders shipped,
+GMK MoDo Light,"+ Estimated to ship July/August 2021 (as 6.25.2021)+ Keycaps In Transit (as 6.25.2021)
+
+
+",
+HSA Biege on Brown,"
+GROUPBUY
++ November 2019
+
+SHIPPING
++ Estimated to ship April 2020 (as of 11.4.2019)+ Estimated to ship June 2021 (as of 2.8.2020)
+
+TIMELINE
+
++ Dec...",
+GMK Terra,"
+ ",
+name,expected_ship_date,product_url
+Blacklight Deskmat,May-21,https://thekey.company/products/blacklight-deskmat
+Cabernet Deskmat,Jun-21,https://thekey.company/products/cabernet-deskmat
+Comfy Deskmat,Jul-21,https://thekey.company/products/comfy-deskmat
+Controller Series Deskmat,Aug-21,https://thekey.company/products/controller-series-deskmat
+DSA Magic Girl Keycaps Round 2,Aug-21,https://thekey.company/products/dsa-magic-girl-keycaps-round-2
+DSA Nature Witch by Infinikey,Oct-21,https://thekey.company/products/dsa-nature-witch-by-infinikey
+GMK Black Lotus,Nov-21,https://thekey.company/products/gmk-black-lotus
+GMK Lunar,Nov-21,https://thekey.company/products/gmk-lunar
+Infinikey Blacklight Keycaps,May-21,https://thekey.company/products/infinikey-blacklight-keycaps
+Infinikey Cabernet Keycaps,Aug-21,https://thekey.company/products/infinikey-cabernet-keycaps
+Infinikey Comfy Keycaps,Sep-21,https://thekey.company/products/infinikey-comfy-keycaps
+Infinikey Dark Cyrillic Keycaps,Sep-21,https://thekey.company/products/infinikey-dark-cyrillic-keycaps
+Infinikey Marshmallow Keycaps,Oct-21,https://thekey.company/products/infinikey-marshmallow-keycaps
+Infinikey Morse Keycaps,Sep-21,https://thekey.company/products/infinikey-morse-keycaps
+Infinikey Team Liquid Keycaps,Sep-21,https://thekey.company/products/infinikey-team-liquid-keycaps
+Infinikey Vanir Keycaps,Sep-21,https://thekey.company/products/infinikey-vanir-keycaps
+JTK Night Sakura Keycaps,Sep-21,https://thekey.company/products/jtk-night-sakura-keycaps
+Lunar Deskmats,Jul-21,https://thekey.company/products/lunar-deskmats
+Lunar X Salvun Artisan Keycap,Jul-21,https://thekey.company/products/lunar-x-salvun-artisan-keycap
+M0LLY Polycarbonate Keyboard,Sep-21,https://thekey.company/products/m0lly-polycarbonate-keyboard
+Magic Girl Deskmats Round 2,Jul-21,https://thekey.company/products/magic-girl-deskmats-round-2
+Marshmallow Deskmat,Sep-21,https://thekey.company/products/marshmallow-deskmat
+Mech Mat,Sep-21,https://thekey.company/products/mech-mat
+Monochrome Series Deskmat,Sep-21,https://thekey.company/products/monochrome-series-deskmat
+Morse Deskmat,Sep-21,https://thekey.company/products/morse-deskmat
+Nature Witch Deskmat,Sep-21,https://thekey.company/products/nature-witch-deskmat
+Night Sakura Deskmat,Dec-21,https://thekey.company/products/jtk-night-sakura-deskmat
+Plant Arcana Deskmat,Sep-21,https://thekey.company/products/plant-arcana-deskmat
+Portico Keyboard: Magic Girl Edition,Jul-21,https://thekey.company/products/portico-keyboard-magic-girl-edition
+Samoyed Series Deskmat,Sep-21,https://thekey.company/products/samoyed-series-deskmat
+Synthwave Series Deskmat,Aug-21,https://thekey.company/products/synthwave-series-deskmat
+UYU Milk Series Deskmat,Jul-21,https://thekey.company/products/uyu-milk-series-deskmat
+Vanir Deskmat,Aug-21,https://thekey.company/products/vanir-deskmat

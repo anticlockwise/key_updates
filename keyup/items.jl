@@ -250,6 +250,7 @@
 {"name": "GMK ThinkCaps", "expected_ship_date": "Estimated to ship Nov 2021 (as of 2.4.2021)"}
 {"name": "Bauer 2", "expected_ship_date": "+ Estimated to ship June/July 2021 (as of 4.16.2021)"}
 {"name": "GMK Redline", "expected_ship_date": "+ Estimated to ship Nov 2021 (pending color sample approval)"}
+{"name": "GMK Dracula", "expected_ship_date": "+ Estimated to ship from the manufacturer at the end of Sept 2021 and to customers in Oct/Nov 2021 (as of 6.25.2021)\n\n\n"}
 {"name": "Meka Bag / Keyboard Bag Groupbuy", "expected_ship_date": "Estimated to ship March/April 2021"}
 {"name": "8008 Inks", "expected_ship_date": "Estimated to ship in Feb 2021"}
 {"name": "SA DUALSHOT", "expected_ship_date": "Estimated to ship August 2021"}
@@ -263,7 +264,6 @@
 {"name": "GMK MoDo Light", "expected_ship_date": "+ Estimated to ship July/August 2021 (as 6.25.2021)+ Keycaps In Transit (as 6.25.2021)\n\n\n"}
 {"name": "HSA Biege on Brown", "expected_ship_date": "\nGROUPBUY\n+ November 2019\n\nSHIPPING\n+ Estimated to ship April 2020 (as of 11.4.2019)+ Estimated to ship June 2021 (as of 2.8.2020)\n\nTIMELINE\n\n+ Dec..."}
 {"name": "GMK Terra", "expected_ship_date": "\n "}
-{"name": "GMK Dracula", "expected_ship_date": "+ Estimated to ship from the manufacturer at the end of Sept 2021 and to customers in Oct/Nov 2021 (as of 6.25.2021)\n\n\n"}
 {"name": "Blacklight Deskmat", "expected_ship_date": "May 2021", "product_url": "https://thekey.company/products/blacklight-deskmat"}
 {"name": "Cabernet Deskmat", "expected_ship_date": "Jun 2021", "product_url": "https://thekey.company/products/cabernet-deskmat"}
 {"name": "Comfy Deskmat", "expected_ship_date": "Jul 2021", "product_url": "https://thekey.company/products/comfy-deskmat"}

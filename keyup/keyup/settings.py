@@ -97,5 +97,9 @@ FEEDS = {
         'item_export_kwargs': {
            'export_empty_fields': True,
         },
+    },
+    'items.csv': {
+        'format': 'csv',
+        'fields': ['name', 'expected_ship_date', 'product_url']
     }
 }
