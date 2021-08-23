@@ -178,131 +178,65 @@
 {"name": "MONOKEI x CYSM", "expected_ship_date": "Q4 '21"}
 {"name": "BISO Bags", "expected_ship_date": null}
 {"name": "Large TX Bags", "expected_ship_date": null}
-{"name": "GMK Classic Retro Zhuyin", "url": "https://novelkeys.xyz/products/gmk-classic-retro-zhuyin-gb", "expected_ship_date": ["Q2 2022"]}
-{"name": "GMK Oblivion V3.1", "url": "https://novelkeys.xyz/products/gmk-oblivion-v3-1-gb", "expected_ship_date": ["Q2 2022"]}
-{"name": "NK65™ - Oblivion V3.1 Edition", "url": "https://novelkeys.xyz/products/nk65-oblivion-edition-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "Oblivion V3.1 Deskpad", "url": "https://novelkeys.xyz/products/oblivion-v3-1-deskpad-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "RAMA M6-C Oblivion Edition", "url": "https://novelkeys.xyz/products/rama-m6-c-oblivion-edition-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "Aluvia Keycaps", "url": "https://novelkeys.xyz/products/aluvia-keycaps-gb?_pos=1&_sid=1e8a29a5f&_ss=r", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Analog Dreams R2", "url": "https://novelkeys.xyz/products/gmk-analog-dreams-r2-gb", "expected_ship_date": ["Q2 2022"]}
-{"name": "Analog Dreams Deskpads", "url": "https://novelkeys.xyz/products/analog-dreams-r2-deskpad-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "KAM Li'l Dragon", "url": "https://novelkeys.xyz/products/kam-lil-dragon-gb", "expected_ship_date": ["Q2 2022"]}
-{"name": "Li'l Dragon Deskpads", "url": "https://novelkeys.xyz/products/lil-dragon-deskpad-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "Li'l Dragon Accesories", "url": "https://novelkeys.xyz/products/lil-dragon-accessories-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Handarbeit R2 GB", "url": "https://novelkeys.xyz/products/gmk-handarbeit-r2", "expected_ship_date": ["Q2 2022"]}
-{"name": "GMK Parcel", "url": "https://novelkeys.xyz/products/gmk-parcel-gb", "expected_ship_date": ["Q2 2022"]}
-{"name": "Parcel Deskpads", "url": "https://novelkeys.xyz/products/parcel-deskpad-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Zooted", "url": "https://novelkeys.xyz/products/gmk-zooted-gb", "expected_ship_date": ["Q2 2022"]}
-{"name": "wilba.tech Salvation Keyboard", "url": "https://novelkeys.xyz/products/salvation-keyboard-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "Nono The Duck Bundle", "url": "https://novelkeys.xyz/products/nono-the-duck-bundle-preorder?_pos=1&_sid=a6813dc6d&_ss=r", "expected_ship_date": ["Q3 2021"]}
-{"name": "Metropolis Deskpads", "url": "https://novelkeys.xyz/products/metropolis-r2-deskpad-gb?_pos=1&_sid=9ccf6102f&_ss=r", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Metropolis R2", "url": "https://novelkeys.xyz/products/gmk-metropolis-r2-gb?_pos=5&_sid=9ccf6102f&_ss=r", "expected_ship_date": ["Q1 2022"]}
-{"name": "Metropolis M6-C", "url": "https://novelkeys.xyz/products/metropolis-rama-m6-c-gb?_pos=6&_sid=9ccf6102f&_ss=r", "expected_ship_date": ["Q3 2021"]}
-{"name": "Sa Tatooine™", "url": "https://novelkeys.xyz/products/sa-tatooine-preorder", "expected_ship_date": ["Q2 2022"]}
-{"name": "NK87 Aluminum Edition Preorder", "url": "https://novelkeys.xyz/products/nk87-aluminum-edition-preorder", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Striker", "url": "https://novelkeys.xyz/products/gmk-striker-2-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "Hexagon Blue Deskpads", "url": "https://novelkeys.xyz/collections/frontpage/products/hexagon-blue-deskpad-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "Colorchrome Deskpads", "url": "https://novelkeys.xyz/products/colorchrome-deskpad-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Colorchrome", "url": "https://novelkeys.xyz/products/gmk-colorchrome-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "Superuser Deskpads", "url": "https://novelkeys.xyz/products/superuser-deskpad-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "NK65™ - Superuser Edition", "url": "https://novelkeys.xyz/products/nk65-superuser-edition", "expected_ship_date": ["Q4 2021"]}
-{"name": "KAM Superuser", "url": "https://novelkeys.xyz/products/kam-superuser-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "GMK Dots R2", "url": "https://novelkeys.xyz/products/gmk-dots-r2-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "Dots R2 Deskpad", "url": "https://novelkeys.xyz/products/dots-r2-deskpad-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "GMK Mr. Sleeves R2", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-mr-sleeves-r2-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "Box 75", "url": "https://novelkeys.xyz/products/box-75-keyboard-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "Recall Deskpad GB", "url": "https://novelkeys.xyz/products/recall-deskpad-gb?_pos=1&_sid=c41da8fd9&_ss=r", "expected_ship_date": ["Aug. 2021"]}
-{"name": "SA Recall", "url": "https://novelkeys.xyz/products/sa-recall-gb?_pos=2&_sid=c41da8fd9&_ss=r", "expected_ship_date": ["Q1 2022"]}
-{"name": "NK65™ - Awaken Edition", "url": "https://novelkeys.xyz/products/nk65-awaken-edition-gb?variant=37736407040167", "expected_ship_date": ["Q1 2022"]}
-{"name": "Awaken Deskpads", "url": "https://novelkeys.xyz/products/awaken-deskpad-gb?variant=37738444062887", "expected_ship_date": ["Aug. 2021"]}
-{"name": "GMK Awaken", "url": "https://novelkeys.xyz/products/gmk-awaken-gb?variant=37737315991719", "expected_ship_date": ["Q1 2022"]}
-{"name": "GMK Serika 2", "url": "https://novelkeys.xyz/products/gmk-serika-2", "expected_ship_date": ["Q1 2022"]}
-{"name": "NK65™ Olivia Edition", "url": "https://novelkeys.xyz/products/nk65-olivia-edition-gb", "expected_ship_date": ["Oct. 2021"]}
-{"name": "GMK Yuri R2", "url": "https://novelkeys.xyz/products/gmk-yuri-r2-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "JTK Griseann / Royal Alphas", "url": "https://novelkeys.xyz/products/jtk-griseann-royal-alpha", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Honor", "url": "https://novelkeys.xyz/products/gmk-honor-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "GMK Mudbeam", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-mudbeam-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "GMK Grand Prix", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-grand-prix-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "GMK Space Cadet II", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-space-cadet-ii-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "SA Jadeite", "url": "https://novelkeys.xyz/collections/frontpage/products/sa-jadeite-gb", "expected_ship_date": ["Q4 2021"]}
-{"name": "GMK Monokai Material", "url": "https://novelkeys.xyz/products/gmk-monokai-gb", "expected_ship_date": ["Q1 2022"]}
-{"name": "GMK Sloth", "url": "https://novelkeys.xyz/products/gmk-sloth-gb", "expected_ship_date": ["Jan. 2022"]}
-{"name": "Sloth Deskpad", "url": "https://novelkeys.xyz/products/sloth-deskpad-gb", "expected_ship_date": ["Aug. 2021"]}
-{"name": "GMK Bento", "url": "https://novelkeys.xyz/products/gmk-bento-r2-gb", "expected_ship_date": ["Dec. 2021"]}
-{"name": "GMK Mecha-01", "url": "https://novelkeys.xyz/products/gmk-mecha-01-gb", "expected_ship_date": ["Nov. 2021"]}
-{"name": "GMK Hammerhead", "url": "https://novelkeys.xyz/products/gmk-hammerhead-gb", "expected_ship_date": ["Nov. 2021"]}
-{"name": "GMK Boneyard", "url": "https://novelkeys.xyz/products/gmk-boneyard-gb", "expected_ship_date": ["Oct. 2021"]}
-{"name": "KAM Ghost", "url": "https://novelkeys.xyz/products/kam-ghost-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "GMK Midnight Rainbow", "url": "https://novelkeys.xyz/products/gmk-midnight-rainbow-gb", "expected_ship_date": ["Aug. 2021"]}
-{"name": "JTK Zen", "url": "https://novelkeys.xyz/products/jtk-zen-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "Decent65 Keyboard", "url": "https://novelkeys.xyz/collections/frontpage/products/decent65-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "HSA WoB", "url": "https://novelkeys.xyz/collections/frontpage/products/hsa-wob-keycaps-gb", "expected_ship_date": ["Q3 2021"]}
-{"name": "GMK Bushido", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-bushido-gb", "expected_ship_date": []}
-{"name": "Mecha-01 Deskpads", "url": "https://novelkeys.xyz/products/mecha-01-deskpad-gb", "expected_ship_date": []}
-{"name": "WoB Extensions", "url": "https://novelkeys.xyz/products/gmk-wob-extensions-gb", "expected_ship_date": []}
-{"name": "JTK Classic FC", "url": "https://novelkeys.xyz/products/jtk-classic-fc-gb?_pos=1&_sid=8dfe3df8a&_ss=r", "expected_ship_date": []}
-{"name": "KAT Arctic", "url": "https://novelkeys.xyz/products/kat-arctic-gb?_pos=1&_sid=573005f7c&_ss=r", "expected_ship_date": []}
-{"name": "Serika Deskpads", "url": "https://novelkeys.xyz/products/serika-deskpad-gb", "expected_ship_date": []}
-{"name": "Taeha Types Deskpads", "url": "https://novelkeys.xyz/products/taeha-types-deskpad-gb", "expected_ship_date": []}
-{"name": "Breaking Bad Deskpads", "url": "https://novelkeys.xyz/products/breaking-bad-deskpad-pre-order", "expected_ship_date": []}
-{"name": "SA Skyriter", "url": "https://novelkeys.xyz/products/sa-skyriter", "expected_ship_date": []}
-{"name": "Space Cadet II Deskpads", "url": "https://novelkeys.xyz/products/space-cadet-ii-deskpad-gb", "expected_ship_date": []}
-{"name": "Yuri Deskpads", "url": "https://novelkeys.xyz/products/yuri-deskpad-gb", "expected_ship_date": []}
-{"name": "Nk65 - RFP Edition", "url": "https://novelkeys.xyz/products/nk65-rfp-edition-gb", "expected_ship_date": []}
-{"name": "7V Keyboard", "url": "https://novelkeys.xyz/products/7v-keyboard-gb", "expected_ship_date": []}
-{"name": "KAM Wraith", "url": "https://novelkeys.xyz/products/kam-wraith-gb?_pos=2&_sid=940151e33&_ss=r", "expected_ship_date": []}
-{"name": "GMK Classic Blue", "url": "https://novelkeys.xyz/products/gmk-classic-blue-gb", "expected_ship_date": []}
-{"name": "Kat Lich", "url": "https://novelkeys.xyz/products/kat-lich-gb?_pos=1&_sid=47ef8c9d4&_ss=r", "expected_ship_date": []}
-{"name": "Skyriter Deskpad", "url": "https://novelkeys.xyz/products/skyriter-deskpad-gb", "expected_ship_date": []}
-{"name": "RAMA Wave Keycap", "url": "https://novelkeys.xyz/products/rama-x-nk_-wave-keycap", "expected_ship_date": []}
-{"name": "Bento R2 Deskpads", "url": "https://novelkeys.xyz/products/bento-r2-deskpad-gb", "expected_ship_date": []}
-{"name": "NK65™ - Milkshake Edition", "url": "https://novelkeys.xyz/products/nk65-milkshake-edition-gb?_pos=2&_sid=f03f5d8d7&_ss=r", "expected_ship_date": []}
-{"name": "Hammerhead Deskpad", "url": "https://novelkeys.xyz/products/hammerhead-deskpad-gb", "expected_ship_date": []}
-{"name": "Sail Deskpad", "url": "https://novelkeys.xyz/products/sail-deskpad-gb", "expected_ship_date": []}
-{"name": "Gateron CAP Switches", "url": "https://novelkeys.xyz/products/gateron-cap-switch-gb", "expected_ship_date": []}
-{"name": "GMK Taro R2", "url": "https://novelkeys.xyz/products/gmk-taro-r2-gb", "expected_ship_date": []}
-{"name": "GMK Darling", "url": "https://novelkeys.xyz/products/gmk-darling-gb?_pos=1&_sid=02b9cad18&_ss=r", "expected_ship_date": []}
-{"name": "SA Sail", "url": "https://novelkeys.xyz/products/sa-sail-gb", "expected_ship_date": []}
-{"name": "GMK Zhuyin", "url": "https://novelkeys.xyz/products/gmk-zhuyin-gb?_pos=1&_sid=bce184aac&_ss=r", "expected_ship_date": []}
-{"name": "JTK Vostok-01", "url": "https://novelkeys.xyz/products/jtk-vostok-1-gb", "expected_ship_date": []}
-{"name": "Midnight Rainbow Deskpad", "url": "https://novelkeys.xyz/products/midnight-rainbow-deskpad-gb", "expected_ship_date": []}
-{"name": "GMK RGB Add-on Kit", "url": "https://novelkeys.xyz/products/gmk-rgb-add-on-kit", "expected_ship_date": []}
-{"name": "GMK Peach Blossom", "url": "https://novelkeys.xyz/products/gmk-peach-blossom-gb?variant=31758548598877", "expected_ship_date": []}
-{"name": "GMK Greek Beige Add-on Kit", "url": "https://novelkeys.xyz/products/gmk-greek-beige-add-on-kit", "expected_ship_date": []}
-{"name": "Arctic Deskpad", "url": "https://novelkeys.xyz/products/arctic-deskpad-gb", "expected_ship_date": []}
-{"name": "GMK Olivia++", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-oliviaplusplus-gb", "expected_ship_date": []}
-{"name": "Bushido Deskpad", "url": "https://novelkeys.xyz/collections/frontpage/products/bushido-deskpad-gb", "expected_ship_date": []}
-{"name": "GMK Crimson Cadet", "url": "https://novelkeys.xyz/products/gmk-crimson-cadet-gb", "expected_ship_date": []}
-{"name": "TKC x NK_ Bushidō Stabilizer Kit", "url": "https://novelkeys.xyz/products/tkc-x-nk_-bushido-stabilizer-kit-preorder", "expected_ship_date": []}
-{"name": "Wraith Deskpad", "url": "https://novelkeys.xyz/products/wraith-deskpad-gb?_pos=1&_sid=940151e33&_ss=r", "expected_ship_date": []}
-{"name": "Darling Deskpads", "url": "https://novelkeys.xyz/products/darling-deskpad-gb?_pos=2&_sid=667947840&_ss=r", "expected_ship_date": []}
-{"name": "TKC x NK_ Olivia++ Stabilizer Kit", "url": "https://novelkeys.xyz/products/tkc-x-nk_-olivia-stabilizer-kit-preorder?_pos=1&_sid=b46d0cf05&_ss=r", "expected_ship_date": []}
-{"name": "GMK Analog Dreams", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-analog-dreams", "expected_ship_date": []}
-{"name": "M6-C Milkshake Edition", "url": "https://novelkeys.xyz/products/m6-c-milkshake-edition", "expected_ship_date": []}
-{"name": "GMK Camping R2", "url": "https://novelkeys.xyz/products/gmk-camping-gb-r2", "expected_ship_date": []}
-{"name": "RAMA Shrimp on The Barbie", "url": "https://novelkeys.xyz/products/rama-shrimp-on-the-barbie?_pos=1&_sid=2bc8f020f&_ss=r", "expected_ship_date": []}
-{"name": "GMK Pretty in Pink", "url": "https://novelkeys.xyz/products/gmk-pretty-in-pink-kit-gb", "expected_ship_date": []}
-{"name": "KAT Milkshake", "url": "https://novelkeys.xyz/products/kat-milkshake-gb", "expected_ship_date": []}
-{"name": "GMK WoB Hiragana", "url": "https://novelkeys.xyz/products/gmk-wob-hiragana?variant=29012088815709", "expected_ship_date": []}
-{"name": "GMK VoC", "url": "https://novelkeys.xyz/products/gmk-voc-gb?variant=28893659201629", "expected_ship_date": []}
-{"name": "GMK Dots", "url": "https://novelkeys.xyz/products/gmk-dots-gb?variant=28541793599581", "expected_ship_date": []}
-{"name": "GMK Vaporwave", "url": "https://novelkeys.xyz/products/gmk-vaporwave-gb?variant=28541844422749", "expected_ship_date": []}
-{"name": "randomfrankp x NK_ Deskpad", "url": "https://novelkeys.xyz/products/randomfrankp-x-nk_-deskpad?_pos=1&_sid=26dd681f8&_ss=r", "expected_ship_date": []}
-{"name": "Olivia++ Deskpad", "url": "https://novelkeys.xyz/collections/frontpage/products/olivia-deskpad-gb", "expected_ship_date": []}
-{"name": "Milkshake Deskpad", "url": "https://novelkeys.xyz/collections/frontpage/products/lime-deskpad-gb", "expected_ship_date": []}
-{"name": "Lime Deskpad", "url": "https://novelkeys.xyz/collections/frontpage/products/lime-deskpad-gb", "expected_ship_date": []}
-{"name": "GMK Olive", "url": "https://novelkeys.xyz/products/gmk-olive-gb?variant=28274338037853", "expected_ship_date": []}
-{"name": "Crimson Cadet Deskpad", "url": "https://novelkeys.xyz/products/crimson-cadet-deskpad-gb?_pos=6&_sid=d7d6977d9&_ss=r", "expected_ship_date": []}
-{"name": "Dots Deskpad", "url": "https://novelkeys.xyz/products/dots-deskpad-gb?variant=28880797663325", "expected_ship_date": []}
-{"name": "BoW Hiragana Deskpad", "url": "https://novelkeys.xyz/products/wob-hiragana-deskpad-gb?_pos=2&_sid=11dd55dd6&_ss=r", "expected_ship_date": []}
-{"name": "Bento Nanos", "url": "https://novelkeys.xyz/products/keebwerk-nano-bento-edition?variant=19609741328477", "expected_ship_date": []}
-{"name": "NK65™ - Aluminum Edition", "url": "https://novelkeys.xyz/products/nk65-aluminum-edition?_pos=1&_sid=a12dcfc47&_ss=r", "expected_ship_date": []}
-{"name": "GMK Metropolis", "url": "https://novelkeys.xyz/products/gmk-metropolis-gb?variant=20204399296605", "expected_ship_date": []}
-{"name": "SA Olivia", "url": "https://novelkeys.xyz/products/sa-olivia-gb", "expected_ship_date": []}
-{"name": "JTK Hyperfuse", "url": "https://novelkeys.xyz/products/jtk-hyperfuse-gb", "expected_ship_date": []}
-{"name": "Leviathan Deskpads", "url": "https://novelkeys.xyz/products/leviathan-deskpad-gb?variant=28343276634205", "expected_ship_date": []}
-{"name": "SA Fluffy Clouds", "url": "https://novelkeys.xyz/products/sa-fluffy-clouds-gb?variant=28240460120157", "expected_ship_date": []}
-{"name": "Metropolis Deskpads", "url": "https://novelkeys.xyz/products/metropolis-deskpad-gb?variant=20204452905053", "expected_ship_date": []}
+{"name": "GMK Classic Retro Zhuyin", "url": "https://novelkeys.xyz/products/gmk-classic-retro-zhuyin-gb", "expected_ship_date": "Q2 2022"}
+{"name": "GMK Oblivion V3.1", "url": "https://novelkeys.xyz/products/gmk-oblivion-v3-1-gb", "expected_ship_date": "Q2 2022"}
+{"name": "NK65™ - Oblivion V3.1 Edition", "url": "https://novelkeys.xyz/products/nk65-oblivion-edition-gb", "expected_ship_date": "Q4 2021"}
+{"name": "Oblivion V3.1 Deskpad", "url": "https://novelkeys.xyz/products/oblivion-v3-1-deskpad-gb", "expected_ship_date": "Q4 2021"}
+{"name": "RAMA M6-C Oblivion Edition", "url": "https://novelkeys.xyz/products/rama-m6-c-oblivion-edition-gb", "expected_ship_date": "Q4 2021"}
+{"name": "Aluvia Keycaps", "url": "https://novelkeys.xyz/products/aluvia-keycaps-gb?_pos=1&_sid=1e8a29a5f&_ss=r", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Analog Dreams R2", "url": "https://novelkeys.xyz/products/gmk-analog-dreams-r2-gb", "expected_ship_date": "Q2 2022"}
+{"name": "Analog Dreams Deskpads", "url": "https://novelkeys.xyz/products/analog-dreams-r2-deskpad-gb", "expected_ship_date": "Q4 2021"}
+{"name": "KAM Li'l Dragon", "url": "https://novelkeys.xyz/products/kam-lil-dragon-gb", "expected_ship_date": "Q2 2022"}
+{"name": "Li'l Dragon Deskpads", "url": "https://novelkeys.xyz/products/lil-dragon-deskpad-gb", "expected_ship_date": "Q4 2021"}
+{"name": "Li'l Dragon Accesories", "url": "https://novelkeys.xyz/products/lil-dragon-accessories-gb", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Handarbeit R2 GB", "url": "https://novelkeys.xyz/products/gmk-handarbeit-r2", "expected_ship_date": "Q2 2022"}
+{"name": "GMK Parcel", "url": "https://novelkeys.xyz/products/gmk-parcel-gb", "expected_ship_date": "Q2 2022"}
+{"name": "Parcel Deskpads", "url": "https://novelkeys.xyz/products/parcel-deskpad-gb", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Zooted", "url": "https://novelkeys.xyz/products/gmk-zooted-gb", "expected_ship_date": "Q2 2022"}
+{"name": "wilba.tech Salvation Keyboard", "url": "https://novelkeys.xyz/products/salvation-keyboard-gb", "expected_ship_date": "Q4 2021"}
+{"name": "Nono The Duck Bundle", "url": "https://novelkeys.xyz/products/nono-the-duck-bundle-preorder?_pos=1&_sid=a6813dc6d&_ss=r", "expected_ship_date": "Q3 2021"}
+{"name": "Metropolis Deskpads", "url": "https://novelkeys.xyz/products/metropolis-r2-deskpad-gb?_pos=1&_sid=9ccf6102f&_ss=r", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Metropolis R2", "url": "https://novelkeys.xyz/products/gmk-metropolis-r2-gb?_pos=5&_sid=9ccf6102f&_ss=r", "expected_ship_date": "Q1 2022"}
+{"name": "Metropolis M6-C", "url": "https://novelkeys.xyz/products/metropolis-rama-m6-c-gb?_pos=6&_sid=9ccf6102f&_ss=r", "expected_ship_date": "Q3 2021"}
+{"name": "Sa Tatooine™", "url": "https://novelkeys.xyz/products/sa-tatooine-preorder", "expected_ship_date": "Q2 2022"}
+{"name": "NK87 Aluminum Edition Preorder", "url": "https://novelkeys.xyz/products/nk87-aluminum-edition-preorder", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Striker", "url": "https://novelkeys.xyz/products/gmk-striker-2-gb", "expected_ship_date": "Q1 2022"}
+{"name": "Hexagon Blue Deskpads", "url": "https://novelkeys.xyz/collections/frontpage/products/hexagon-blue-deskpad-gb", "expected_ship_date": "Q3 2021"}
+{"name": "Colorchrome Deskpads", "url": "https://novelkeys.xyz/products/colorchrome-deskpad-gb", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Colorchrome", "url": "https://novelkeys.xyz/products/gmk-colorchrome-gb", "expected_ship_date": "Q1 2022"}
+{"name": "Superuser Deskpads", "url": "https://novelkeys.xyz/products/superuser-deskpad-gb", "expected_ship_date": "Q3 2021"}
+{"name": "NK65™ - Superuser Edition", "url": "https://novelkeys.xyz/products/nk65-superuser-edition", "expected_ship_date": "Q4 2021"}
+{"name": "KAM Superuser", "url": "https://novelkeys.xyz/products/kam-superuser-gb", "expected_ship_date": "Q1 2022"}
+{"name": "GMK Dots R2", "url": "https://novelkeys.xyz/products/gmk-dots-r2-gb", "expected_ship_date": "Q1 2022"}
+{"name": "Dots R2 Deskpad", "url": "https://novelkeys.xyz/products/dots-r2-deskpad-gb", "expected_ship_date": "Q3 2021"}
+{"name": "GMK Mr. Sleeves R2", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-mr-sleeves-r2-gb", "expected_ship_date": "Q1 2022"}
+{"name": "Box 75", "url": "https://novelkeys.xyz/products/box-75-keyboard-gb", "expected_ship_date": "Q1 2022"}
+{"name": "Recall Deskpad GB", "url": "https://novelkeys.xyz/products/recall-deskpad-gb?_pos=1&_sid=c41da8fd9&_ss=r", "expected_ship_date": "Aug. 2021"}
+{"name": "SA Recall", "url": "https://novelkeys.xyz/products/sa-recall-gb?_pos=2&_sid=c41da8fd9&_ss=r", "expected_ship_date": "Q1 2022"}
+{"name": "NK65™ - Awaken Edition", "url": "https://novelkeys.xyz/products/nk65-awaken-edition-gb?variant=37736407040167", "expected_ship_date": "Q1 2022"}
+{"name": "Awaken Deskpads", "url": "https://novelkeys.xyz/products/awaken-deskpad-gb?variant=37738444062887", "expected_ship_date": "Aug. 2021"}
+{"name": "GMK Awaken", "url": "https://novelkeys.xyz/products/gmk-awaken-gb?variant=37737315991719", "expected_ship_date": "Q1 2022"}
+{"name": "GMK Serika 2", "url": "https://novelkeys.xyz/products/gmk-serika-2", "expected_ship_date": "Q1 2022"}
+{"name": "NK65™ Olivia Edition", "url": "https://novelkeys.xyz/products/nk65-olivia-edition-gb", "expected_ship_date": "Oct. 2021"}
+{"name": "GMK Yuri R2", "url": "https://novelkeys.xyz/products/gmk-yuri-r2-gb", "expected_ship_date": "Q1 2022"}
+{"name": "JTK Griseann / Royal Alphas", "url": "https://novelkeys.xyz/products/jtk-griseann-royal-alpha", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Honor", "url": "https://novelkeys.xyz/products/gmk-honor-gb", "expected_ship_date": "Q1 2022"}
+{"name": "GMK Mudbeam", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-mudbeam-gb", "expected_ship_date": "Q1 2022"}
+{"name": "GMK Grand Prix", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-grand-prix-gb", "expected_ship_date": "Q1 2022"}
+{"name": "GMK Space Cadet II", "url": "https://novelkeys.xyz/collections/frontpage/products/gmk-space-cadet-ii-gb", "expected_ship_date": "Q1 2022"}
+{"name": "SA Jadeite", "url": "https://novelkeys.xyz/collections/frontpage/products/sa-jadeite-gb", "expected_ship_date": "Q4 2021"}
+{"name": "GMK Monokai Material", "url": "https://novelkeys.xyz/products/gmk-monokai-gb", "expected_ship_date": "Q1 2022"}
+{"name": "GMK Sloth", "url": "https://novelkeys.xyz/products/gmk-sloth-gb", "expected_ship_date": "Jan. 2022"}
+{"name": "Sloth Deskpad", "url": "https://novelkeys.xyz/products/sloth-deskpad-gb", "expected_ship_date": "Aug. 2021"}
+{"name": "GMK Bento", "url": "https://novelkeys.xyz/products/gmk-bento-r2-gb", "expected_ship_date": "Dec. 2021"}
+{"name": "GMK Mecha-01", "url": "https://novelkeys.xyz/products/gmk-mecha-01-gb", "expected_ship_date": "Nov. 2021"}
+{"name": "GMK Hammerhead", "url": "https://novelkeys.xyz/products/gmk-hammerhead-gb", "expected_ship_date": "Nov. 2021"}
+{"name": "GMK Boneyard", "url": "https://novelkeys.xyz/products/gmk-boneyard-gb", "expected_ship_date": "Oct. 2021"}
+{"name": "KAM Ghost", "url": "https://novelkeys.xyz/products/kam-ghost-gb", "expected_ship_date": "Q3 2021"}
+{"name": "GMK Midnight Rainbow", "url": "https://novelkeys.xyz/products/gmk-midnight-rainbow-gb", "expected_ship_date": "Aug. 2021"}
+{"name": "JTK Zen", "url": "https://novelkeys.xyz/products/jtk-zen-gb", "expected_ship_date": "Q3 2021"}
+{"name": "Decent65 Keyboard", "url": "https://novelkeys.xyz/collections/frontpage/products/decent65-gb", "expected_ship_date": "Q3 2021"}
+{"name": "HSA WoB", "url": "https://novelkeys.xyz/collections/frontpage/products/hsa-wob-keycaps-gb", "expected_ship_date": "Q3 2021"}
 {"name": "GMK Botanical 2", "expected_ship_date": "Estimated to ship Q3 2022 (as of 7.2021)"}
 {"name": "GMK SYMBIOTE", "expected_ship_date": "\nGROUPBUY\n+ June 2021\nSHIPPING\n+ Estimated to ship Q3 2022 (as of 6.2021)\nKEYCAPS\nCUSTOM COLORS\n \n\n\nDESKPADS\n \nRAMA WORKS® CAPS"}
 {"name": "GMK DUALSHOT 2", "expected_ship_date": "\nGROUPBUY\n+ May 2021\nSHIPPING\n+ Estimated to ship Q2/Q3 2022 (as of 5.2021)\nKEYCAPS\nSTOCK COLORS - NO COLOR MATCHING NEEDED\n \n\n\nDESKPADS\n \nRAMA WOR..."}
@@ -316,7 +250,6 @@
 {"name": "GMK ThinkCaps", "expected_ship_date": "Estimated to ship Nov 2021 (as of 2.4.2021)"}
 {"name": "Bauer 2", "expected_ship_date": "+ Estimated to ship June/July 2021 (as of 4.16.2021)"}
 {"name": "GMK Redline", "expected_ship_date": "+ Estimated to ship Nov 2021 (pending color sample approval)"}
-{"name": "GMK Dracula", "expected_ship_date": "+ Estimated to ship from the manufacturer at the end of Sept 2021 and to customers in Oct/Nov 2021 (as of 6.25.2021)\n\n\n"}
 {"name": "Meka Bag / Keyboard Bag Groupbuy", "expected_ship_date": "Estimated to ship March/April 2021"}
 {"name": "8008 Inks", "expected_ship_date": "Estimated to ship in Feb 2021"}
 {"name": "SA DUALSHOT", "expected_ship_date": "Estimated to ship August 2021"}
@@ -330,6 +263,7 @@
 {"name": "GMK MoDo Light", "expected_ship_date": "+ Estimated to ship July/August 2021 (as 6.25.2021)+ Keycaps In Transit (as 6.25.2021)\n\n\n"}
 {"name": "HSA Biege on Brown", "expected_ship_date": "\nGROUPBUY\n+ November 2019\n\nSHIPPING\n+ Estimated to ship April 2020 (as of 11.4.2019)+ Estimated to ship June 2021 (as of 2.8.2020)\n\nTIMELINE\n\n+ Dec..."}
 {"name": "GMK Terra", "expected_ship_date": "\n "}
+{"name": "GMK Dracula", "expected_ship_date": "+ Estimated to ship from the manufacturer at the end of Sept 2021 and to customers in Oct/Nov 2021 (as of 6.25.2021)\n\n\n"}
 {"name": "Blacklight Deskmat", "expected_ship_date": "May 2021", "product_url": "https://thekey.company/products/blacklight-deskmat"}
 {"name": "Cabernet Deskmat", "expected_ship_date": "Jun 2021", "product_url": "https://thekey.company/products/cabernet-deskmat"}
 {"name": "Comfy Deskmat", "expected_ship_date": "Jul 2021", "product_url": "https://thekey.company/products/comfy-deskmat"}
