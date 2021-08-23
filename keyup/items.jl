@@ -237,6 +237,33 @@
 {"name": "JTK Zen", "url": "https://novelkeys.xyz/products/jtk-zen-gb", "expected_ship_date": "Q3 2021", "vendor": "Novelkeys"}
 {"name": "Decent65 Keyboard", "url": "https://novelkeys.xyz/collections/frontpage/products/decent65-gb", "expected_ship_date": "Q3 2021", "vendor": "Novelkeys"}
 {"name": "HSA WoB", "url": "https://novelkeys.xyz/collections/frontpage/products/hsa-wob-keycaps-gb", "expected_ship_date": "Q3 2021", "vendor": "Novelkeys"}
+{"name": "GMK Botanical 2", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
+{"name": "GMK SYMBIOTE", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
+{"name": "GMK DUALSHOT 2", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
+{"name": "SA Ramses", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
+{"name": "GMK Blurple", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
+{"name": "GMK Norse", "expected_ship_date": "Q2 2022", "vendor": "Omnitype"}
+{"name": "Meka Bag / Keyboard Bag Groupbuy", "expected_ship_date": "March/April 2021", "vendor": "Omnitype"}
+{"name": "Brushworks Deskpads", "expected_ship_date": "August 2021", "vendor": "Omnitype"}
+{"name": "GMK Tuzi", "expected_ship_date": "Q1 2022", "vendor": "Omnitype"}
+{"name": "8008 Inks", "expected_ship_date": "February 2021", "vendor": "Omnitype"}
+{"name": "SA DUALSHOT", "expected_ship_date": "August 2021", "vendor": "Omnitype"}
+{"name": "Cyber Meka Mats", "expected_ship_date": "April/May 2021", "vendor": "Omnitype"}
+{"name": "GMK 80082", "expected_ship_date": "January / February 2022", "vendor": "Omnitype"}
+{"name": "GMK Dracula", "expected_ship_date": "the end of Sept 2021", "vendor": "Omnitype"}
+{"name": "GMK Minimal 2", "expected_ship_date": "January 2022", "vendor": "Omnitype"}
+{"name": "GMK Pono", "expected_ship_date": "December 2021/January 2022", "vendor": "Omnitype"}
+{"name": "GMK ThinkCaps", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
+{"name": "Bauer 2", "expected_ship_date": "June/July 2021", "vendor": "Omnitype"}
+{"name": "GMK Nuclear Data", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
+{"name": "GMK MoDo 2", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
+{"name": "GMK Redline", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
+{"name": "GMK REDACTED", "expected_ship_date": "December 2021", "vendor": "Omnitype"}
+{"name": "GMK Nautilus 2", "expected_ship_date": "February 2021", "vendor": "Omnitype"}
+{"name": "GMK Botanical", "expected_ship_date": null, "vendor": "Omnitype"}
+{"name": "GMK MoDo Light", "expected_ship_date": "July/August 2021", "vendor": "Omnitype"}
+{"name": "HSA Biege on Brown", "expected_ship_date": "June 2021", "vendor": "Omnitype"}
+{"name": "GMK Terra", "expected_ship_date": null, "vendor": "Omnitype"}
 {"name": "Blacklight Deskmat", "expected_ship_date": "May 2021", "product_url": "https://thekey.company/products/blacklight-deskmat", "vendor": "TKC"}
 {"name": "Cabernet Deskmat", "expected_ship_date": "Jun 2021", "product_url": "https://thekey.company/products/cabernet-deskmat", "vendor": "TKC"}
 {"name": "Comfy Deskmat", "expected_ship_date": "Jul 2021", "product_url": "https://thekey.company/products/comfy-deskmat", "vendor": "TKC"}

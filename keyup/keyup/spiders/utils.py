@@ -82,7 +82,7 @@ nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("date_extractor", first=True)
 
 
-def extract_shipping_date(item_title, text):
+def extract_shipping_date(text):
     text = text.replace(u"\xa0", " ")
     doc = nlp(text)
 
