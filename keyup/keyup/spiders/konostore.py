@@ -24,5 +24,6 @@ class KonostoreSpider(scrapy.Spider):
         for item_name, description in items.items():
             yield {
                 "name": item_name,
-                "expected_ship_date": "".join(description)
+                "expected_ship_date": "".join(description),
+                "vendor": "Kono Store"
             }

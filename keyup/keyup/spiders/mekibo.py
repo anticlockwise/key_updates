@@ -18,5 +18,6 @@ class MekiboSpider(scrapy.Spider):
                     expected_ship_date = cells[2].xpath(".//text()").get()
                     yield {
                         "name": item_name,
-                        "expected_ship_date": expected_ship_date
+                        "expected_ship_date": expected_ship_date,
+                        "vendor": "Mekibo"
                     }

@@ -1,8 +1,7 @@
 import spacy
 import datetime
-import itertools
 import re
-import unicodedata
+from spacy.language import Language
 
 from spacy.pipeline import EntityRuler
 
@@ -72,10 +71,15 @@ ADDITIONAL_DATE_PATTERNS = [
 ]
 
 
+@Language.factory("date_extractor")
+def date_extractor(nlp, name):
+    ruler = EntityRuler(nlp, validate=True)
+    ruler.add_patterns(ADDITIONAL_DATE_PATTERNS)
+    return ruler
+
+
 nlp = spacy.load("en_core_web_sm")
-ruler = EntityRuler(nlp, validate=True)
-ruler.add_patterns(ADDITIONAL_DATE_PATTERNS)
-nlp.add_pipe(ruler, first=True)
+nlp.add_pipe("date_extractor", first=True)
 
 
 def extract_shipping_date(item_title, text):

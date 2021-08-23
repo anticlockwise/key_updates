@@ -21,5 +21,6 @@ class NovelkeysSpider(scrapy.Spider):
             yield {
                 "name": item_name,
                 "url": product_url,
-                "expected_ship_date": expected_ship_date
+                "expected_ship_date": expected_ship_date,
+                "vendor": "Novelkeys"
             }

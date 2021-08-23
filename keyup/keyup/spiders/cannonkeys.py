@@ -16,5 +16,6 @@ class CannonkeysSpider(scrapy.Spider):
             if item_name:
                 yield {
                     "name": item_name,
-                    "expected_ship_date": expected_ship_date.strip()
+                    "expected_ship_date": expected_ship_date.strip(),
+                    "vendor": "Cannonkeys"
                 }

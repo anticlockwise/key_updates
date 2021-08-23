@@ -23,5 +23,6 @@ class TkcSpider(scrapy.Spider):
             yield {
                 "name": item_name,
                 "expected_ship_date": expected_ship_date[1].strip(),
-                "product_url": product_url
+                "product_url": product_url,
+                "vendor": "TKC"
             }
