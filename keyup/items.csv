@@ -151,7 +151,7 @@ GMK Apollo Deskmat,May '20,,Mekibo
 GMK Cojiro Deskmat,Jul '21,,Mekibo
 GMK Harvest Deskmats,TBA,,Mekibo
 GMK Hazakura Deskmat,Oct '21,,Mekibo
-GMK Maestro Deskmat,Jul '21,,Mekibo
+GMK Maestro Deskmat,Sep '21,,Mekibo
 GMK Oni Deskmat,Dec '20,,Mekibo
 GMK Red Devils Deskmat,Feb ‘21,,Mekibo
 GMK Stargaze,TBA,,Mekibo
@@ -186,6 +186,15 @@ KAT Monochrome - Salvun,Aug '21,,Mekibo
 MONOKEI x CYSM,Q4 '21,,Mekibo
 BISO Bags,,,Mekibo
 Large TX Bags,,,Mekibo
+name,expected_ship_date,product_url,vendor
+KAT Space Cadet,Expected shipping date is 1st Oct 2021,,MKUltra
+KAT Slurp,Expected shipping date is 31st Jan 2022,,MKUltra
+MBK Legend Keycaps,Expected shipping date is 31st May 2021,,MKUltra
+GMK Nord Keycaps,Expected shipping date is 31st Aug 2021,,MKUltra
+KAT Slurp Deskmats,Expected shipping date is 31st Jan 2022,,MKUltra
+[Pre-sale] KAT Napoleonic Keycaps,Expected shipping date is 1st Oct 2021,,MKUltra
+ePBT Grand Tour Keycaps,Expected shipping date is 1st Nov 2021,,MKUltra
+ePBT Grand Tour Deskmats,Expected shipping date is 2nd Nov 2021,,MKUltra
 name,expected_ship_date,product_url,vendor
 GMK Classic Retro Zhuyin,Q2 2022,,Novelkeys
 GMK Oblivion V3.1,Q2 2022,,Novelkeys
@@ -253,21 +262,21 @@ GMK DUALSHOT 2,Q3 2022,,Omnitype
 SA Ramses,Q3 2022,,Omnitype
 GMK Blurple,Q3 2022,,Omnitype
 GMK Norse,Q2 2022,,Omnitype
-Meka Bag / Keyboard Bag Groupbuy,March/April 2021,,Omnitype
 Brushworks Deskpads,August 2021,,Omnitype
 GMK Tuzi,Q1 2022,,Omnitype
-8008 Inks,February 2021,,Omnitype
-SA DUALSHOT,August 2021,,Omnitype
 Cyber Meka Mats,April/May 2021,,Omnitype
 GMK 80082,January / February 2022,,Omnitype
-GMK Dracula,the end of Sept 2021,,Omnitype
-GMK Minimal 2,January 2022,,Omnitype
-GMK Pono,December 2021/January 2022,,Omnitype
 GMK ThinkCaps,November 2021,,Omnitype
 Bauer 2,June/July 2021,,Omnitype
+GMK Redline,November 2021,,Omnitype
+Meka Bag / Keyboard Bag Groupbuy,March/April 2021,,Omnitype
+GMK Dracula,the end of Sept 2021,,Omnitype
+8008 Inks,February 2021,,Omnitype
+SA DUALSHOT,August 2021,,Omnitype
+GMK Minimal 2,January 2022,,Omnitype
+GMK Pono,December 2021/January 2022,,Omnitype
 GMK Nuclear Data,November 2021,,Omnitype
 GMK MoDo 2,November 2021,,Omnitype
-GMK Redline,November 2021,,Omnitype
 GMK REDACTED,December 2021,,Omnitype
 GMK Nautilus 2,February 2021,,Omnitype
 GMK Botanical,,,Omnitype

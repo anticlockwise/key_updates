@@ -144,7 +144,7 @@
 {"name": "GMK Cojiro Deskmat", "expected_ship_date": "Jul '21", "vendor": "Mekibo"}
 {"name": "GMK Harvest Deskmats", "expected_ship_date": "TBA", "vendor": "Mekibo"}
 {"name": "GMK Hazakura Deskmat", "expected_ship_date": "Oct '21", "vendor": "Mekibo"}
-{"name": "GMK Maestro Deskmat", "expected_ship_date": "Jul '21", "vendor": "Mekibo"}
+{"name": "GMK Maestro Deskmat", "expected_ship_date": "Sep '21", "vendor": "Mekibo"}
 {"name": "GMK Oni Deskmat", "expected_ship_date": "Dec '20", "vendor": "Mekibo"}
 {"name": "GMK Red Devils Deskmat", "expected_ship_date": "Feb ‘21", "vendor": "Mekibo"}
 {"name": "GMK Stargaze", "expected_ship_date": "TBA", "vendor": "Mekibo"}
@@ -178,6 +178,14 @@
 {"name": "MONOKEI x CYSM", "expected_ship_date": "Q4 '21", "vendor": "Mekibo"}
 {"name": "BISO Bags", "expected_ship_date": null, "vendor": "Mekibo"}
 {"name": "Large TX Bags", "expected_ship_date": null, "vendor": "Mekibo"}
+{"name": "KAT Space Cadet", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 1st Oct 2021"}
+{"name": "KAT Slurp", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 31st Jan 2022"}
+{"name": "MBK Legend Keycaps", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 31st May 2021"}
+{"name": "GMK Nord Keycaps", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 31st Aug 2021"}
+{"name": "KAT Slurp Deskmats", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 31st Jan 2022"}
+{"name": "[Pre-sale] KAT Napoleonic Keycaps", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 1st Oct 2021"}
+{"name": "ePBT Grand Tour Keycaps", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 1st Nov 2021"}
+{"name": "ePBT Grand Tour Deskmats", "vendor": "MKUltra", "expected_ship_date": "Expected shipping date is 2nd Nov 2021"}
 {"name": "GMK Classic Retro Zhuyin", "url": "https://novelkeys.xyz/products/gmk-classic-retro-zhuyin-gb", "expected_ship_date": "Q2 2022", "vendor": "Novelkeys"}
 {"name": "GMK Oblivion V3.1", "url": "https://novelkeys.xyz/products/gmk-oblivion-v3-1-gb", "expected_ship_date": "Q2 2022", "vendor": "Novelkeys"}
 {"name": "NK65™ - Oblivion V3.1 Edition", "url": "https://novelkeys.xyz/products/nk65-oblivion-edition-gb", "expected_ship_date": "Q4 2021", "vendor": "Novelkeys"}
@@ -243,21 +251,21 @@
 {"name": "SA Ramses", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
 {"name": "GMK Blurple", "expected_ship_date": "Q3 2022", "vendor": "Omnitype"}
 {"name": "GMK Norse", "expected_ship_date": "Q2 2022", "vendor": "Omnitype"}
-{"name": "Meka Bag / Keyboard Bag Groupbuy", "expected_ship_date": "March/April 2021", "vendor": "Omnitype"}
 {"name": "Brushworks Deskpads", "expected_ship_date": "August 2021", "vendor": "Omnitype"}
 {"name": "GMK Tuzi", "expected_ship_date": "Q1 2022", "vendor": "Omnitype"}
-{"name": "8008 Inks", "expected_ship_date": "February 2021", "vendor": "Omnitype"}
-{"name": "SA DUALSHOT", "expected_ship_date": "August 2021", "vendor": "Omnitype"}
 {"name": "Cyber Meka Mats", "expected_ship_date": "April/May 2021", "vendor": "Omnitype"}
 {"name": "GMK 80082", "expected_ship_date": "January / February 2022", "vendor": "Omnitype"}
-{"name": "GMK Dracula", "expected_ship_date": "the end of Sept 2021", "vendor": "Omnitype"}
-{"name": "GMK Minimal 2", "expected_ship_date": "January 2022", "vendor": "Omnitype"}
-{"name": "GMK Pono", "expected_ship_date": "December 2021/January 2022", "vendor": "Omnitype"}
 {"name": "GMK ThinkCaps", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
 {"name": "Bauer 2", "expected_ship_date": "June/July 2021", "vendor": "Omnitype"}
+{"name": "GMK Redline", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
+{"name": "Meka Bag / Keyboard Bag Groupbuy", "expected_ship_date": "March/April 2021", "vendor": "Omnitype"}
+{"name": "GMK Dracula", "expected_ship_date": "the end of Sept 2021", "vendor": "Omnitype"}
+{"name": "8008 Inks", "expected_ship_date": "February 2021", "vendor": "Omnitype"}
+{"name": "SA DUALSHOT", "expected_ship_date": "August 2021", "vendor": "Omnitype"}
+{"name": "GMK Minimal 2", "expected_ship_date": "January 2022", "vendor": "Omnitype"}
+{"name": "GMK Pono", "expected_ship_date": "December 2021/January 2022", "vendor": "Omnitype"}
 {"name": "GMK Nuclear Data", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
 {"name": "GMK MoDo 2", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
-{"name": "GMK Redline", "expected_ship_date": "November 2021", "vendor": "Omnitype"}
 {"name": "GMK REDACTED", "expected_ship_date": "December 2021", "vendor": "Omnitype"}
 {"name": "GMK Nautilus 2", "expected_ship_date": "February 2021", "vendor": "Omnitype"}
 {"name": "GMK Botanical", "expected_ship_date": null, "vendor": "Omnitype"}
