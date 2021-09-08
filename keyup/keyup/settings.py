@@ -88,7 +88,7 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 FEEDS = {
-    'items.jl': {
+    'items-20210826.jl': {
         'format': 'jsonlines',
         'encoding': 'utf8',
         'store_empty': False,
@@ -98,8 +98,12 @@ FEEDS = {
            'export_empty_fields': True,
         },
     },
-    'items.csv': {
+    'items-20210826.csv': {
         'format': 'csv',
         'fields': ['name', 'expected_ship_date', 'product_url', 'vendor']
     }
+}
+
+FEED_EXPORTERS = {
+    'csv': 'keyup.exporters.HeadlessCsvItemExporter'
 }
