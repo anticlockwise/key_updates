@@ -19,9 +19,11 @@ class OmnitypeSpider(scrapy.Spider):
         article_items = response.css(".ArticleItem")
         for article_item in article_items:
             item_name = article_item.css(".ArticleItem__Title a::text").get()
-            expected_ship_date = extract_shipping_date(article_item.css(".ArticleItem__Excerpt::text").get())
+            description = article_item.css(".ArticleItem__Excerpt::text").get()
+            expected_ship_date = extract_shipping_date(description)
             yield {
                 "name": item_name,
                 "expected_ship_date": expected_ship_date,
+                "description": description,
                 "vendor": "Omnitype"
             }

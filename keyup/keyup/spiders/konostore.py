@@ -1,5 +1,6 @@
 import scrapy
 import collections
+from .utils import extract_shipping_date
 
 
 class KonostoreSpider(scrapy.Spider):
@@ -24,6 +25,7 @@ class KonostoreSpider(scrapy.Spider):
         for item_name, description in items.items():
             yield {
                 "name": item_name,
-                "expected_ship_date": "".join(description),
+                "expected_ship_date": extract_shipping_date("".join(description)),
+                "description": description,
                 "vendor": "Kono Store"
             }

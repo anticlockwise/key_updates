@@ -100,7 +100,7 @@ FEEDS = {
     },
     'items-20210826.csv': {
         'format': 'csv',
-        'fields': ['name', 'expected_ship_date', 'product_url', 'vendor']
+        'fields': ['name', 'expected_ship_date', 'product_url', "description", 'vendor']
     }
 }
 

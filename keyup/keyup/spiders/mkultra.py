@@ -1,4 +1,5 @@
 import scrapy
+from .utils import extract_shipping_date
 
 
 BASE_URL = "https://mkultra.click"
@@ -29,5 +30,5 @@ class MkultraSpider(scrapy.Spider):
         yield {
             "name": product_title,
             "vendor": "MKUltra",
-            "expected_ship_date": expected_ship_date
+            "expected_ship_date": extract_shipping_date(expected_ship_date)
         }

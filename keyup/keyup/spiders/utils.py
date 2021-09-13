@@ -68,6 +68,10 @@ ADDITIONAL_DATE_PATTERNS = [
             {"TEXT": {"REGEX": "^{}$".format(MONTHS_REGEX_TEXT)}},
         ],
     },
+    {
+        "label": "DATE",
+        "pattern": [ {"TEXT": {"REGEX": r"^\d\.\d\.\d{4}$"}} ]
+    }
 ]
 
 
